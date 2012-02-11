@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FebHabitActivity!</string>
+    <string name="app_name">二月习惯</string>
+    <string name="title">二月份习惯养成</string>
+    <string name="intro">本月继续养成良好的个人卫生习惯，本月养成的小习惯是：坚持使用护肤产品。</string>
+    <string name="view">查看本月记录</string>
+    <string name="add">添加一条记录</string>
+    <string name="addthis">添加此记录</string>
+    <string name="clearthis">清空此记录</string>
+    <string name="day">日期</string> 
+    <string name="time">洗漱时间</string>  
+    <string name="info">备注</string> 
+    <string name="choose">未选择</string> 
+    <string name="amtask">早上任务</string> 
+    <string name="pmtask">晚上任务</string>
+    <string name="updatethis">更新记录</string> 
+       
+</resources>
